@@ -1,7 +1,8 @@
 public class A {
 	
   public  A(){
-		System.out.println("A="+this.hashCode());	
+		System.out.println("A="+this.hashCode());
+	  
 		}
 	
 }
